@@ -4,7 +4,9 @@
 
 layout: default 
 ---
-A default home page that will soon have stuff about Boris hopefully.
+Welcome to my website! This is a website about me, Boris, built by me using Github Pages and Jekyll for the purpose of learning something new! As well, it serves to showcase some of my previous projects.
+
+![Photo of me](/assets/BorisFleysher.jpg)
 
 [Link To About Page](about)
 
