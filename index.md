@@ -5,3 +5,7 @@
 layout: default 
 ---
 A default home page that will soon have stuff about Boris hopefully.
+
+[Link To About Page](about)
+
+
