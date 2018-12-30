@@ -23,10 +23,15 @@ Here's a photo of me at Camp Yowochas leading a high ropes activity!
 ## Projects
 Below are a series of things I've been involved in, in no particular order.
 
-### StarCraft 2 Bot
-Over the course of the Fall 2018 semester, working in a team of 4, we built a StarCraft 2 bot from scratch and competed against other teams in the class. Our bot placed 2nd out of 10.
+### StarCraft 2 Bot - "SegFault"
+Over the course of the Fall 2018 semester, working in a team of 4, we built a StarCraft 2 bot (named SegFault) from scratch and competed against other teams in the class. Our bot placed 2nd out of 10.
 
 [Read More](StarCraft2)
+
+### Black Soul
+Over Spring/Summer 2018, myself and 4 friends set out to make a 30-minute game prototype. Black Soul was the resulting outcome.
+
+[Read More and download the game here](BlackSoul)
 
 ### OneShot
 Over Reading Week in November 2018, I sat down for 48 hours in a team of 4 to build Oneshot, a short game using Godot 3.
@@ -40,6 +45,7 @@ In Fall 2018, I worked with the University of Alberta Outdoors Club to digitaliz
 
 ### Research Assistant - Information Extraction
 In Summer 2018, I worked under Professor Davood Rafiei to extract facts and information from article-based corpea.
+
 [Read more](InformationExtraction)
 
 
