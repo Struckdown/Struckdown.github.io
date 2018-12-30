@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Project Attitude
+permalink: /Project Attitude/
 ---
 
 Why hello there, you seem to have stumbled onto my site!

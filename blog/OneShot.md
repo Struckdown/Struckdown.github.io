@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: OneShot
+permalink: /OneShot/
 ---
 
 Why hello there, you seem to have stumbled onto my site!

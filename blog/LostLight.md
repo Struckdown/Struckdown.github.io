@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Lost Light
+permalink: /LostLight/
 ---
 
 Why hello there, you seem to have stumbled onto my site!

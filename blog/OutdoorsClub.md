@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Outdoors Club Rental System
+permalink: /OutdoorsClub/
 ---
 
 Why hello there, you seem to have stumbled onto my site!
