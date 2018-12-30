@@ -31,7 +31,7 @@ Over the course of the Fall 2018 semester, working in a team of 4, we built a St
 ### OneShot
 Over Reading Week in November 2018, I sat down for 48 hours in a team of 4 to build Oneshot, a short game using Godot 3.
 
-[Read More](OneShot)
+[Read More and download the game here](OneShot)
 
 ### Outdoors Club Database
 In Fall 2018, I worked with the University of Alberta Outdoors Club to digitalize their database, bringing it into the modern age.
@@ -40,6 +40,8 @@ In Fall 2018, I worked with the University of Alberta Outdoors Club to digitaliz
 
 ### Research Assistant - Information Extraction
 In Summer 2018, I worked under Professor Davood Rafiei to extract facts and information from article-based corpea.
+[Read more](InformationExtraction)
+
 
 ### Lost Light
 In Winter 2017, I worked in a 6 person team to build a 30-minute game over the course of the semester using RPG Maker VX Ace. We went on to win an award and had a pretty sweet game too!
