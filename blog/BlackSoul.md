@@ -24,7 +24,7 @@ Some neat things about the game:
 * The camera shake was based on what I learned from a talk on "juice in games", using an exponential decay
 * The deflection mechanic went through several iterations as wel tried to figure out what felt the best for calcuating the reflection
 
-![Screenshot of Black Soul Gameplay](assets/BlackSoulGameplay)
+![Screenshot of Black Soul Gameplay](/assets/BlackSoulGameplay.png)
 
 Checkout the Github Repo here: [Black Soul Github Repo](https://github.com/TeamMaigo/BlackSoul)
 
