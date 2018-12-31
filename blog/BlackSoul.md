@@ -22,8 +22,9 @@ Some neat things about the game:
 * There's a secret bonus room that can be reached through some backtracking when the swap ability is unlocked
 * Three different bullet types with variable shotgun effects lead to some pretty cool flower patterns from turrets
 * The camera shake was based on what I learned from a talk on "juice in games", using an exponential decay
-* The deflection mechanic went through several iterations as wel tried to figure out what felt the best for calcuating the reflection
+* The deflection mechanic went through several iterations as we tried to figure out what felt the best for calcuating the reflection
 
+Here's a screenshot in the early portion of the game where the player needs to weave between bullets and use them to break glass to open up additional paths.
 ![Screenshot of Black Soul Gameplay](/assets/BlackSoulGameplay.png)
 
 Checkout the Github Repo here: [Black Soul Github Repo](https://github.com/TeamMaigo/BlackSoul)
