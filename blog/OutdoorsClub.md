@@ -18,6 +18,6 @@ Our team was composed of:
 
 We ended up successfully creating a rental system that allows for users to rent out equipment and pay for it online through PayPal. Executives help facilitate the rental process by modifying the status of reservations once users come in to actually take out the gear and return it. Admins have full control and can modify what gear is available, who can rent out and even change system variables such as how far in advance equipment can be rented out, how much equipment can be rented at once, and so forth. The system also features automatic emails to remind users that gear is to be picked up soon, due soon or overdue.
 
-![Screenshot of Rental Page](RentalPage.png)
+![Screenshot of Rental Page](/assets/RentalPage.png)
 
 To actually develop this application, we divided into two teams, the front-end and the backend. Ceegan, Shardul and I composed the backend team, while Ben, Alex, Henry, David and Kevin worked on the front-end. The backend worked with Django (using Python), REST framework, SMTP and the Paypal API while the front-end dealt primarily with React. I worked with setting up backend calls that modified the state of the database, such as updating member lists, blacklists, gear, gear status, reservations and system variables. Likewise, for every function I implemented, I was responsible for writing the tests associated with it. I was also the primary point of contact with the Outdoors Club, helping organize meetings and dealing with emails.

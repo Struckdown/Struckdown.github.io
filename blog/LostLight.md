@@ -20,7 +20,7 @@ Our game was nomiated for Writing and Story, Audio, Technical Achievement, and G
 
 I personally worked on building the levels, implementing parts of the lantern mechanic, and implementation of the boss mechanic at the end of the game. I also did almost all the puzzles and bonus areas, and integration of the dialogue into the game.
 
-![LostLightScreenshot.png](assets/LostLightScreenshot.png)
+![LostLightScreenshot.png](/assets/LostLightScreenshot.png)
 
 [Lost Light on CMPUT 250 site](https://sites.google.com/ualberta.ca/cmput250/9th-ceremony-2017/lost-light)
 
