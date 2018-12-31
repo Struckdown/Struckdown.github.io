@@ -23,5 +23,7 @@ ID:0 (Tervita's new CEO, John Cooper,; is committed; to providing employees with
 ```
 
 ![Flowchart](/assets/IEflowchart.png)
+This flowchart shows the overall process, where preprocessing was cleaning up the data and separating the data into separate sentences, as well as attempting coreference resolution with neuralcoref, since spaCy doesn't deal with it.
 
 ![spaCy Visualizer](/assets/Visualizer.png)
+Here is an image of spaCy's visualizer, showing the tree structure that can form from dependancies, which was what we used to identify certain patterns such as a Noun;Verb;Noun like pattern.
