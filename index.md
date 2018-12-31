@@ -39,12 +39,12 @@ Over Reading Week in November 2018, I sat down for 48 hours in a team of 4 to bu
 [Read more and download the game here](OneShot)
 
 ### Outdoors Club Database
-In Fall 2018, I worked with the University of Alberta Outdoors Club to digitalize their database, bringing it into the modern age.
+In Fall 2018, I worked with the University of Alberta Outdoors Club to create a rental application to reduce the waste of paper and help simplify the Outdoor Club's workflow.
 
 [Read more](OutdoorsClub)
 
 ### Research Assistant - Information Extraction
-In Summer 2018, I worked under Professor Davood Rafiei to extract facts and information from article-based corpea.
+In Summer 2018, I worked under [Dr. Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/) to extract facts and information from article-based corpea.
 
 [Read more](InformationExtraction)
 
