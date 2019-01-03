@@ -4,7 +4,7 @@ title: StarCraft2
 permalink: /StarCraft2/
 ---
 
-In Fall 2018, I took CMPUT 350: Advanced Games Programming which focuses on advanced AI in games and C++. In this class, our project for the last half of the course was to build a [StarCraft 2](www.starcraft2.com) bot from scratch and compete against the other teams. We formed into teams of 3-4 and went from there.
+In Fall 2018, I took CMPUT 350: Advanced Games Programming which focuses on advanced AI in games and C++. In this class, our project for the last half of the course was to build a [StarCraft 2](https://starcraft2.com) bot from scratch and compete against the other teams. We formed into teams of 3-4 and went from there.
 
 I had the pleasure of building our bot SegFault with:
 * [Atharv Vohra](https://github.com/AtharvVohra)
