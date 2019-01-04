@@ -5,7 +5,7 @@ permalink: /DragonQuest/
 ---
 In Fall 2017, I took STS 350: Understanding Video Games at the University of Alberta, which focused on game principles, such as their history, culture and aspects of their design.
 We were also tasked to make a short text-based game as one of our projects, from which we made DragonQuest.
-DragonQuest is a game made in [Twine 2](https://http://twinery.org) that has the player play as a dragon and play through some text based
+DragonQuest is a game made in [Twine 2](https://twinery.org) that has the player play as a dragon and play through some text based
 mini-games, such as combat scenarios.
 
 The Team:
