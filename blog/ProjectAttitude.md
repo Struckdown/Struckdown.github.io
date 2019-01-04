@@ -8,4 +8,11 @@ In Winter 2017, I took CMPUT 301: Introduction to Software Practices and worked 
 
 Project Attitude is a mobile app that allows the user to track moods, similar to Twitter/Facebook for general status updates. By creating an account, you can post, view and update your moods, as well as give explainations for them. You can follow other users to see their moods, and even see a map to see where moods were made.
 
-I worked on aspects of the following other people screen, as well as helped write tests, fixed bugs and worked on getting the maps to work (which had questionable success).
+I worked on aspects of the following other people screen, as well as helped write tests, fixed bugs and worked on getting the maps to work.
+
+Our team was composed of:
+* [Boris Fleysher](https://github.com/Struckdown)
+* [Vuk Radovic](https://github.com/VukR)
+* [Rene Sauve-Hoover](https://github.com/rsauvehoover)
+* [Henry Wei Lo](https://github.com/TheBurnerGuy)
+* [Christopher Saunders](https://github.com/chris-saunders)
