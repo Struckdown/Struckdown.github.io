@@ -16,11 +16,10 @@ The Team:
 * Charles Zhai
 * Wang Dong
 
-I primarily worked as one of the lead developers and designer for this project, designing all the combat scenarios and their implementations,
-as well as the Wizard mini-game and Empire mini-game in two of the endings. I did a bunch of the implementation of the game, as well
-as bug fixing and general QA.
+I was overall responsible of the general implementation of the game, as well as bug fixing and general QA. I primarily worked as one of the lead developers and designer for this project, designing all the combat scenarios and their implementations, as well as the Wizard mini-game and Empire mini-game in two of the endings. I also designed and implemented the cavern mini-dungeon.
 
 ![Screenshot of DragonQuest Gameplay](/assets/DragonQuestGameplay.png)
+Here is the player encountering an ogre, which starts a turn based combat sequence.
 
 [Trailer of the game](https://www.youtube.com/watch?v=w77T-H4zvKs&feature=youtu.be)
 
