@@ -21,7 +21,7 @@ Here's a photo of me at Camp Yowochas leading a high ropes activity!
 
 
 ## Projects
-Below are a series of things I've been involved in, in no particular order.
+Below are a series of various projects and things I've been involved in, mostly relating to software development or game making.
 
 ### StarCraft 2 Bot - "SegFault"
 Over the course of the Fall 2018 semester, working in a team of 4, we built a StarCraft 2 bot (named SegFault) from scratch and competed against other teams in the class. Our bot placed 2nd out of 10.
@@ -48,13 +48,17 @@ In Summer 2018, I worked under [Dr. Davood Rafiei](https://webdocs.cs.ualberta.c
 
 [Read more](InformationExtraction)
 
-
 ### Lost Light
 In Winter 2017, I worked in a 6 person team to build a 30-minute game over the course of the semester using RPG Maker VX Ace. We went on to win an award and had a pretty sweet game too!
 
 [Read more and download the game here](LostLight)
 
 ### Project Attitude
-Winter 2017, I worked on a 5 person team to build an android application similar to Twitter but for moods instead!
+During Winter 2017, I worked on a 5 person team to build an android application similar to Twitter but for moods instead!
 
 [Read more](ProjectAttitude)
+
+### DragonQuest
+In Fall 2017, I made an adventure game using Twine 2 in a six person team. The primary constraint was that it had to be a text-based game.
+
+[Read more and download the game here](DragonQuest)
