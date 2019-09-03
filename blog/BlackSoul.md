@@ -8,7 +8,7 @@ In Summer 2018, my friend [Omer](https://github.com/omergosh) and myself were th
 Black Soul is a game made in [Godot 3](https://godotengine.org), built from the ground up. We started learning this engine, having never used it before and managed to make a top-down 2D action game in three months. We ended up learning a good lesson in scope and the difficulties of getting everything done in a timely fashion, especially since this was a passion hobby project and many of us were doing other things like working full or part time and various other obligations.
 
 The Team:
-* [Kieran Downs](https://kierandowns.github.io) (Executive Produer, Audio)
+* [Kieran Downs](https://kierandowns.github.io) (Executive Producer, Audio)
 * Boris Fleysher (Lead Developer, Lead Designer, Producer)
 * Nelson Chen (Art, Sprites, Environment)
 * [Taylor Folkersen](https://github.com/tfolkersen) (Programmer/Developer)
