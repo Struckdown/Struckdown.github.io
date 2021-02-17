@@ -28,3 +28,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+
+# Force an update to avoid a vulnerability in older kramdown versions
+gem "kramdown", ">= 2.3.0"
