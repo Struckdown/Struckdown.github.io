@@ -5,24 +5,31 @@
 layout: default 
 ---
 # Welcome!
-Welcome to my website! This is a website about me, Boris, built by me using Github Pages and Jekyll for the purpose of learning something new! As well, it serves to showcase some of my previous projects.
+Welcome to my website! This is a website about me, Boris, built by me using Github Pages and Jekyll for the purpose of learning something new! As well, it serves to showcase some of my previous projects. And a little bit about my life and journey. Maybe somebody will see this and it'll inspire them.
 
-## About me
-My name is Boris and I'm a recent Computing Science Specialization with the Game Development Certificate graduate from the [University of Alberta](https://www.ualberta.ca/). I was also an executive (Senior Representative specifically) for the [Undergraduate Association of Computing Science](http://ugweb.cs.ualberta.ca/~uacs/) in my last year. I've always been fond of technology and passionately believe that it can achieve just about anything! Hence, I decided to go into a technology-based field to study and learn how to shape the world around me. There isn't much more satisfying than putting together something and seeing it perform or do something, from something simple like sorting a list to more advanced problems like building a bot to play StarCraft 2! When I'm not tinkering with something, you'll likely find me playing board games or enjoying the great outdoors (when it's not too cold)!
+## whoami
+My name is Boris and I'm a recent(ish) Computing Science Specialization with the Game Development Certificate graduate from the [University of Alberta](https://www.ualberta.ca/). I was also an executive (Senior Representative specifically) for the [Undergraduate Association of Computing Science](http://ugweb.cs.ualberta.ca/~uacs/) in my last year. I've always been fond of technology and passionately believe that it can achieve just about anything! Hence, I decided to go into a technology-based field to study and learn how to shape the world around me. There isn't much more satisfying than putting together something and seeing it perform or do something, from something simple like sorting a list to more advanced problems like building a bot to play StarCraft 2! When I'm not tinkering with something, you'll likely find me playing board games or enjoying the great outdoors (when it's not too cold)!
 
 Fun facts about me:
+* Game jams are a great opportunity to try something new and I love to participate in them! Find a bunch of them on my [itch.io page](struckdown.itch.io)
 * I worked at a summer camp for several summers and got to lead activities like the climbing wall, zip-line and canoeing
 * I built a StarCraft 2 bot in a team in a semester that placed 2nd out of 10 bots
-* I can speak Russian fairly fluently and even read and write a little
-* Some of my favourite board games include: Dominion, Space Alert, Coup, The Resistance: Avalon and Galaxy Trucker 
+* I can speak Russian fairly fluently
+* Some of my favourite board games include: Dominion, Space Alert, Coup, The Resistance: Avalon and Galaxy Trucker. More recently, I've been playing Kingdom Death: Monster, Star Wars: Imperial Assault and Gloomhaven, so I've clearly fallen for some of the bigger campaign games
 
 ![Photo of me](/assets/BorisFleysher.jpeg)
 Here's a photo of me at Camp Yowochas leading a high ropes activity!
 
 
-## Projects
-Below are a series of various projects and things I've been involved in, mostly relating to software development or game making.
+## Projects and Career related
+Below is my career path and a series of various projects and things I've been involved in, mostly relating to software development or game making, since that's my passion.
 
+
+### Virus Days
+With the pandemic, vrCAVE went into hibernation and I found a position with Alberta Health Services. Here I worked initially as a IT Analyst I - Software Tester, but took on roles under the performance team due to a lack of manpower there. Which was great, because I got to learn a ton about bash scripting in a practical environment, even if it was mostly me trying to figure out better ways to solve our problems. While this isn't games focused, I'm still trying to do Game Jams on the side and practicing programming wherever I can.
+
+### Graduation and vrCAVE
+When I graduated in 2019, I was fortunate enough to find a position with [vrCAVE](vrcave.ca) as a junior game programmer! Seriously, they're awesome, check them out. I helped develop and program a chunk of The Time Travel Paradox release, as well as porting all the previous Escape rooms to the Oculus Quest! These are some really cool technologies and whoever you are that has stumbled across my website, I highly recommend trying out VR. Because it's really cool. Unless you get motion sick easily. But even then, maybe for a short period of time. 
 
 ### Fragments
 To finish the Game Development Certificate in my final semester, Winter 2019, I took the capstone course which focused on making a game from start to finish in one semester without any hand holding! From here, I lead a small team to make Fragments! 
