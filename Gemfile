@@ -8,8 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 3.8.5"
-gem "jekyll", "~> 3.3"
+#gem "jekyll", "~> 3.8.7"
+#gem "jekyll", "~> 3.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-architect", "~> 0.1.1"
@@ -31,6 +31,13 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 # Force an update to avoid a vulnerability in older kramdown versions
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 
 gem "kramdown-parser-gfm"
+
+
+gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
+
+
+
