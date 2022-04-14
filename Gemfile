@@ -41,3 +41,5 @@ gem "rexml", ">= 3.2.5"
 
 
 
+
+gem "webrick", "~> 1.7"
