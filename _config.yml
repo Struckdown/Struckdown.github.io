@@ -17,7 +17,7 @@ theme: jekyll-theme-architect
 title: Boris Fleysher
 email: bfleyshe@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  A website about Boris, by Boris!
+  Game Developer - Building New Worlds, Together
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://struckdown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
