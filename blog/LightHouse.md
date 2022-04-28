@@ -17,11 +17,13 @@ For this project, I took on the parts of general team lead and general programmi
 * Visual in-editor polish (eg, light effects, particle effects)
 * Integrating all of the audio and art assets
 
-Being highly familiar with Godot, none of these particular tasks were difficult or technically interesting, besides the lasers that I didn't work on. Though I did chat with the developer regarding their implementation to make sure I understood their work and thought it was quite clever. They used a linked list approach to create each laser fragment. We would test the object type we were hitting with a raycast and determine where the next laser should appear at, if anywhere. As each laser was updated, we could tell all the following lasers to update. I later enhanced the visuals by adding a particle effect, making it feel very pretty and alive. We didn't end up hiding the segment intersections using particles due to it being a game jam but that would be a good future improvement.
+Being highly familiar with Godot, none of these particular tasks were difficult or technically interesting, besides the lasers that I didn't work on. Though I did chat with Myles regarding their implementation to make sure I understood their work and thought it was quite clever. They used a linked list approach to create each laser fragment. We would test the object type we were hitting with a raycast and determine where the next laser should appear at, if anywhere. As each laser was updated, we could tell all the following lasers to update. I later enhanced the visuals by adding a particle effect, making it feel very pretty and alive. We didn't end up hiding the segment intersections using particles due to it being a game jam but that would be a good future improvement.
 
 
 ![LighthouseGameplay](/assets/LighthouseGameplay.png)
 
-[Check out Light House on itch.io](https://dragonchasing.itch.io/light-house)
+Honestly, I'd like to let the game speak for itself. So please:
+
+[Check out Light House on itch.io by clicking here or click the widget below!](https://dragonchasing.itch.io/light-house)
 
 <iframe src="https://itch.io/embed/1159743" width="552" height="167" frameborder="0"><a href="https://dragonchasing.itch.io/light-house">Light House by Dragon Chasing Games, ElliotSnyder, Struckdown, wliamjackson</a></iframe>
