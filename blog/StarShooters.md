@@ -56,11 +56,11 @@ We can now finally adapt the quadratic equation to solve it from here as we now 
 * b = 2(deltaPosition\*deltaVelocity)
 * c = deltaVelocity^2
 
-We then solve for t, find the smallest non-negative t and plug that bag into our original formula for the target's position using the function of time. We now know where to aim and thus the problem is solved.
+We then solve for t, find the smallest non-negative t and plug that back into our original formula for the target's position using the function of time. We now know where to aim and thus the problem is solved.
 
 See the following for a more detailed explanation:
-https://www.gamedeveloper.com/programming/predictive-aim-mathematics-for-ai-targeting
-https://stackoverflow.com/questions/2248876/2d-game-fire-at-a-moving-target-by-predicting-intersection-of-projectile-and-u
+[Link 1](https://www.gamedeveloper.com/programming/predictive-aim-mathematics-for-ai-targeting)
+[Link 2](https://stackoverflow.com/questions/2248876/2d-game-fire-at-a-moving-target-by-predicting-intersection-of-projectile-and-u)
 
 ![quadraticFormula](/assets/StarShooters/quadraticFormula.jpg)
 

@@ -30,7 +30,7 @@ The short summary:
 <hr>
 ### vrCAVE
 * [vrCAVE](vrCAVE)
-[![vrCAVE](/assets/vrCAVE.png)](vrCAVE)
+[![vrCAVE](/assets/vrCAVE.PNG)](vrCAVE)
 <hr>
 ### Light House
 * [Light House](LightHouse)
