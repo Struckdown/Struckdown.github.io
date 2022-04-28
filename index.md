@@ -21,27 +21,35 @@ The short summary:
 
 ## Highlights
 
-### Star Shooters
+### Star Shooters - Godot 3, gdScript
 * [Star Shooters](StarShooters)
+
 [![Star Shooters](/assets/StarShootersGameplay1.PNG)](StarShooters)
 <hr>
-### StarCraft 2 SegFault Bot
+
+### StarCraft 2 SegFault Bot - C++
 * [StarCraft 2 SegFault Bot](StarCraft2)
+
 [![Building the Wall](/assets/buildingWall.gif)](StarCraft2)
 <hr>
-### vrCAVE
+
+### vrCAVE - Unreal Engine 4, Blueprints
 * [vrCAVE](vrCAVE)
+
 [![vrCAVE](/assets/vrCAVE.PNG)](vrCAVE)
 <hr>
-### Light House
+
+### Light House - Godot 3, gdScript
 * [Light House](LightHouse)
+
 [![LighthouseGameplay](/assets/LighthouseGameplay.png)](LightHouse)
 <hr>
-### Borbot
+
+### Borbot - Python 3
 * [Borbot](Borbot)
+
 [![Borbot](/assets/Borbot/BorbotQuote.PNG)](Borbot)
 <hr>
+
 ## All Projects
 [If you'd like to read about any of my other past projects or general things I've been up to, click here!](AllProjects)
-
-
