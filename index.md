@@ -53,3 +53,5 @@ The short summary:
 
 ## All Projects
 [If you'd like to read about any of my other past projects or general things I've been up to, click here!](AllProjects)
+
+[And if you wanna play all my old games, check them out on itch.io!](https://struckdown.itch.io/)
