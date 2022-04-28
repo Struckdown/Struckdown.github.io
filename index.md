@@ -4,7 +4,8 @@
 
 layout: default 
 ---
-# Welcome!
+# Boris Fleysher - Game Developer
+## Welcome!
 I'm Boris, a passionate game developer who loves to create new experiences and chase the fun with meaningful player choices. Games are a powerful medium with the potential for incredible experiences and there's nothing better than sharing that with the world! I built this website using Github Pages and Jekyll for the purpose of learning something new! As well, it serves to showcase some of my previous projects. And a little bit about my life and journey.
 
 The short summary:
