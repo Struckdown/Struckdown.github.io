@@ -56,19 +56,13 @@ We can now finally adapt the quadratic equation to solve it from here as we now 
 * b = 2(deltaPosition\*deltaVelocity)
 * c = deltaVelocity^2
 
+We then solve for t, find the smallest non-negative t and plug that bag into our original formula for the target's position using the function of time. We now know where to aim and thus the problem is solved.
+
+See the following for a more detailed explanation:
 https://www.gamedeveloper.com/programming/predictive-aim-mathematics-for-ai-targeting
 https://stackoverflow.com/questions/2248876/2d-game-fire-at-a-moving-target-by-predicting-intersection-of-projectile-and-u
 
 ![quadraticFormula](/assets/StarShooters/quadraticFormula.jpg)
-
-
-
-a = 
-c = 
-
-a = velocity of the projectile
-
-
 
 
 ## Particles
@@ -99,6 +93,8 @@ The energy bar is also composed of a shader! It lerps from 0 to 1 on the v compo
 
 ## Conclusion
 Phew, that's a lot of stuff! I haven't talked about the upgrade system, the stats tracking, the dialogue system or other things I'm not thinking of at the moment but they're all interesting in their own little ways. Instead of me talking more about this game, you should really play it and see for yourself! [Check it out here!](https://struckdown.itch.io/star-shooters)
+
+[Checkout the source code here!](https://github.com/Struckdown/Star-Shooters)
 
 <iframe src="https://itch.io/embed/1163830" width="552" height="167" frameborder="0"><a href="https://struckdown.itch.io/star-shooters">Star Shooters by Struckdown</a></iframe>
 
