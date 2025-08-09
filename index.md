@@ -9,7 +9,7 @@ layout: default
 I'm Boris, a passionate game developer who loves to create new experiences and chase the fun with meaningful player choices. Games are a powerful medium with the potential for incredible experiences and there's nothing better than sharing that with the world! I built this website using Github Pages and Jekyll for the purpose of learning something new! As well, it serves to showcase some of my previous projects. And a little bit about my life and journey.
 
 The short summary:
-* Job: IT Analyst II - Performance tester with Alberta Health Services
+* Job: Gameplay Programmer - Software engineer with Studio Monsoon
 * Education: BSc. Computing Science w/ Certificate in Computer Game Development — University of Alberta 
 * [Resume](/assets/resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/boris-fleysher/) 
@@ -20,6 +20,11 @@ The short summary:
 <hr>
 
 ## Highlights
+
+### The Lord of the Rings: Return to Moria - Unreal Engine 4 (C++ and Blueprints)
+* [Read more here about Return to Moria](ReturnToMoria)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/zwNoBZQEk5k)](https://youtu.be/zwNoBZQEk5k)
+<hr>
 
 ### Star Shooters - Godot 3, gdScript
 * [Star Shooters](StarShooters)
